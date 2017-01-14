@@ -4,7 +4,11 @@
     "repositoryName": "plaidshirtguy.github.io",
     "branch": "master"
   },
+  "site": {
+    "cover": "http://coverphoto.erth.biz/wp-content/uploads/timelinecovers/1043-Lake-balaton-clouds-nature-sky-free-cover-photo-473x295.jpg"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
