@@ -6,7 +6,9 @@
   },
   "site": {
     "title": "A kisember történetei",
-    "cover": "http://i.imgur.com/YbrgMOD.jpg"
+    "description": "Kényelmesen berendezett síró sarok",
+    "cover": "http://i.imgur.com/YbrgMOD.jpg",
+    "postsPerPage": "5"
   },
   "socialnetwork": {},
   "theme": {
