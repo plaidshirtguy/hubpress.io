@@ -6,9 +6,10 @@
   },
   "site": {
     "title": "A kisember történetei",
-    "description": "Kényelmesen berendezett síró sarok",
+    "description": "Kényelmesen berendezett sírósarok",
     "cover": "http://i.imgur.com/YbrgMOD.jpg",
-    "postsPerPage": "5"
+    "postsPerPage": "5",
+    "disqus": "plaidshirtguy"
   },
   "socialnetwork": {},
   "theme": {
